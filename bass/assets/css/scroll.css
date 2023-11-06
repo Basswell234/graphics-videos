@@ -1,0 +1,259 @@
+.scroll-button {
+    position: fixed;
+    left: 5px; /* Adjust the left position as needed */
+    bottom: 220px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+    padding: 5px 5px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 0px;
+    border-radius: 5px;
+}
+
+/* Style for target sections */
+.scroll-target {
+    height: 100vh;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .scroll-button {
+        position: fixed;
+     /* Adjust the left position as needed */
+    bottom: 220px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+   
+    border: none;
+    cursor: pointer;
+    margin-bottom: 0px;
+    border-radius: 5px;
+        left: 5px; /* Adjust the left position for smaller screens */
+        padding: 2px; /* Adjust padding for smaller screens */
+    }
+}
+
+.scroll-button1 {
+    position: fixed;
+    left: 5px; /* Adjust the left position as needed */
+    bottom: 185px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+    padding: 5px 5px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Style for target sections */
+.scroll-target {
+    height: 100vh;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .scroll-button1 {
+        position: fixed;
+ /* Adjust the left position as needed */
+        bottom: 185px;
+        z-index: 100;
+        background-color: #181F1C;
+        color: #fff;
+        
+        border: none;
+        cursor: pointer;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        left: 5px; /* Adjust the left position for smaller screens */
+        padding: 2px; /* Adjust padding for smaller screens */
+    }
+}
+
+.scroll-button2 {
+    position: fixed;
+    left: 5px; /* Adjust the left position as needed */
+    bottom: 150px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+    padding: 5px 5px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Style for target sections */
+.scroll-target {
+    height: 100vh;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .scroll-button {
+        position: fixed;
+     /* Adjust the left position as needed */
+    bottom: 150px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px;
+        left: 5px; /* Adjust the left position for smaller screens */
+        padding: 2px; /* Adjust padding for smaller screens */
+    }
+}
+
+.scroll-button3 {
+    position: fixed;
+    left: 5px; /* Adjust the left position as needed */
+    bottom: 115px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+    padding: 5px 5px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Style for target sections */
+.scroll-target {
+    height: 100vh;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .scroll-button {
+        position: fixed;
+     /* Adjust the left position as needed */
+    bottom: 115px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+     border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px;
+        left: 5px; /* Adjust the left position for smaller screens */
+        padding: 2px; /* Adjust padding for smaller screens */
+    }
+}
+
+.scroll-button4 {
+    position: fixed;
+    left: 5px; /* Adjust the left position as needed */
+    bottom: 80px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+    padding: 5px 5px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Style for target sections */
+.scroll-target {
+    height: 100vh;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .scroll-button {
+        position: fixed;
+     /* Adjust the left position as needed */
+    bottom: 80px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px;
+            left: 5px; /* Adjust the left position for smaller screens */
+        padding: 2px; /* Adjust padding for smaller screens */
+    }
+}
+.scroll-button5 {
+    position: fixed;
+    left: 5px; /* Adjust the left position as needed */
+    bottom: 45px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+    padding: 5px 5px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Style for target sections */
+.scroll-target {
+    height: 100vh;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .scroll-button {
+        position: fixed;
+        /* Adjust the left position as needed */
+        bottom: 45px;
+        z-index: 100;
+        background-color: #181F1C;
+        color: #fff;
+         border: none;
+        cursor: pointer;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        left: 5px; /* Adjust the left position for smaller screens */
+        padding: 2px; /* Adjust padding for smaller screens */
+    }
+}
+
+.scroll-button6 {
+    position: fixed;
+    left: 5px; /* Adjust the left position as needed */
+    bottom: 10px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+    padding: 5px 5px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Style for target sections */
+.scroll-target {
+    height: 100vh;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .scroll-button {
+        position: fixed;
+     /* Adjust the left position as needed */
+    bottom: 10px;
+    z-index: 100;
+    background-color: #181F1C;
+    color: #fff;
+        border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 5px;
+        left: 5px; /* Adjust the left position for smaller screens */
+        padding: 2px; /* Adjust padding for smaller screens */
+    }
+}
